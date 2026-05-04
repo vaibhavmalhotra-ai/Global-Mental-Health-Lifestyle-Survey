@@ -1,2 +1,2 @@
 # Global-Mental-Health-Lifestyle-Survey
-Global Mental Health &amp; Lifestyle Survey Project
+Predicting mental health outcomes using machine learning
